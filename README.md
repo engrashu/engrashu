@@ -120,12 +120,9 @@ I build enterprise IT infrastructure that works when it matters. I'm an IT Syste
 
 ## 📊 GitHub Activity
 
-<div align="center">
+## 📊 GitHub Activity
 
-![Betrand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrashu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrashu&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=engrashu&theme=tokyo-night&hide_border=true)
 
 ---
 
