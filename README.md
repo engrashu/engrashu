@@ -1,7 +1,7 @@
 <div align="center">
 
 # Betrand Ashu (engrashu)
-### IT Systems Administrator → Cloud Engineer
+### IT Systems Administrator → Cloud Engineer | Active Directory · Azure · AWS | CompTIA Security+ (Sep 2026) | BAS IT @ Ensign College
 
 **📍 Douala, Cameroon** &nbsp;|&nbsp; 🌍 **Open to:** Remote · UAE · USA · Canada · Europe · Africa
 
