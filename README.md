@@ -1,7 +1,7 @@
 <div align="center">
 
 # Betrand Ashu (engrashu)
-### IT Systems Administrator → Cloud Engineer | Active Directory · Azure · AWS | CompTIA Security+ (Sep 2026) | BAS IT @ Ensign College
+### Systems Administrator | Cloud & Infrastructure | Linux | Windows Server | Active Directory · Azure · AWS | BAS IT @ Ensign College
 
 **📍 Douala, Cameroon** &nbsp;|&nbsp; 🌍 **Open to:** Remote · UAE · USA · Canada · Europe · Africa
 
@@ -16,9 +16,11 @@
 
 I build enterprise IT infrastructure that works when it matters. I'm an IT Systems Administrator specializing in **hybrid identity**, **Windows/Linux environments**, and **cloud-connected infrastructure** — currently building a portfolio of 10 enterprise-grade projects on the path to becoming a Cloud Engineer.
 
-- 🎓 **BAS Information Technology** — Ensign College | GPA 3.97+ | Expected June 2027
+- 🎓 **BAS Information Technology** — Ensign College | Expected April 2027
 - 🏅 **IT Professional Certificate** — Ensign College (Apr 2026)
 - 🏅 **Technical Support Engineer Certificate** — Ensign College (Oct 2025)
+- 🏅 **Associate in Applied Science — Information Technology** - Ensign College | GPA 3.98 (August 2026)
+- 🏅 **Certificate of Professionalism** — Ensign College (August 2026)
 - 🎯 **CompTIA Security+** — Target: September 2026
 - 🎯 **AWS Solutions Architect Associate** — Target: April 2027
 - 💼 Seeking roles in **System Administration** and **Cloud Engineering**
